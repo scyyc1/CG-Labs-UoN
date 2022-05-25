@@ -1,0 +1,5 @@
+﻿  Lab9.cpp
+E:\Y4\CG-nott\lab\COMP3011\Lab9\Lab9\util.h(17,35): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+E:\Y4\CG-nott\lab\COMP3011\Lab9\Lab9\Lab9.cpp(123,41): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\Y4\CG-nott\lab\COMP3011\Lab9\Lab9\Lab9.cpp(128,41): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Lab9.vcxproj -> E:\Y4\CG-nott\lab\COMP3011\Lab9\x64\Debug\Lab9.exe
